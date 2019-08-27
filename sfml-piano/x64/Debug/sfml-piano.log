@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\emanu\source\repos\sfml-piano\sfml-piano\main.cpp(21,21): warning C4244:  'return': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\emanu\source\repos\sfml-piano\sfml-piano\main.cpp(25,21): warning C4244:  'return': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\emanu\source\repos\sfml-piano\sfml-piano\main.cpp(29,33): warning C4244:  'return': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\emanu\source\repos\sfml-piano\sfml-piano\main.cpp(43,54): warning C4244:  'argumento': conversión de '__int64' a 'unsigned int'; posible pérdida de datos
+C:\Users\emanu\source\repos\sfml-piano\sfml-piano\main.cpp(14): warning C4715:  'sgn': no todas las rutas de acceso de control devuelven un valor
+  sfml-piano.vcxproj -> C:\Users\emanu\source\repos\sfml-piano\x64\Debug\sfml-piano.exe
